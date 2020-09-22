@@ -5,7 +5,7 @@ const TopBar = () => {
     return (
         <nav className={styles.topNav}>
             <img
-                src={process.env.PUBLIC_URL + "assets/logo.svg"}
+                src={process.env.PUBLIC_URL + "/assets/logo.svg"}
                 width="150px"
                 alt="logo"
             />
