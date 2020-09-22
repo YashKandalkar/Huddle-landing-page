@@ -1,0 +1,11 @@
+.topNav{
+    display: flex;
+    justify-content: left;
+    padding: 2rem;
+}
+
+@media only screen and (max-width: 480px){
+    .topNav{
+        padding: 1rem;
+    }
+}
