@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Huddle-landing-page/static/css/main.d3b35d03.chunk.css",
-    "main.js": "/Huddle-landing-page/static/js/main.a5b199a6.chunk.js",
-    "main.js.map": "/Huddle-landing-page/static/js/main.a5b199a6.chunk.js.map",
+    "main.css": "/Huddle-landing-page/static/css/main.60e1a076.chunk.css",
+    "main.js": "/Huddle-landing-page/static/js/main.327b07e7.chunk.js",
+    "main.js.map": "/Huddle-landing-page/static/js/main.327b07e7.chunk.js.map",
     "runtime-main.js": "/Huddle-landing-page/static/js/runtime-main.a39acd6d.js",
     "runtime-main.js.map": "/Huddle-landing-page/static/js/runtime-main.a39acd6d.js.map",
     "static/js/2.42543530.chunk.js": "/Huddle-landing-page/static/js/2.42543530.chunk.js",
     "static/js/2.42543530.chunk.js.map": "/Huddle-landing-page/static/js/2.42543530.chunk.js.map",
     "index.html": "/Huddle-landing-page/index.html",
-    "precache-manifest.6b37df7207c8821a392600719376dc22.js": "/Huddle-landing-page/precache-manifest.6b37df7207c8821a392600719376dc22.js",
+    "precache-manifest.3504da360bf0835d34b2d6cb1743c4d6.js": "/Huddle-landing-page/precache-manifest.3504da360bf0835d34b2d6cb1743c4d6.js",
     "service-worker.js": "/Huddle-landing-page/service-worker.js",
-    "static/css/main.d3b35d03.chunk.css.map": "/Huddle-landing-page/static/css/main.d3b35d03.chunk.css.map",
+    "static/css/main.60e1a076.chunk.css.map": "/Huddle-landing-page/static/css/main.60e1a076.chunk.css.map",
     "static/js/2.42543530.chunk.js.LICENSE.txt": "/Huddle-landing-page/static/js/2.42543530.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a39acd6d.js",
     "static/js/2.42543530.chunk.js",
-    "static/css/main.d3b35d03.chunk.css",
-    "static/js/main.a5b199a6.chunk.js"
+    "static/css/main.60e1a076.chunk.css",
+    "static/js/main.327b07e7.chunk.js"
   ]
 }
